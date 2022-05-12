@@ -30,10 +30,17 @@ h1 {
   text-align: center;
 }
 
+/* .imagen-titulo{
+  position: relative;
+
+} */
+
 .contenedor-principal{
   min-height: 600px;
   display: flex;
   flex-wrap: wrap;
+
   align-items: center;
   justify-content: center;
 }
+
